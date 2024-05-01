@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": ["Cardio Access", "Limited Weightlifting"]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 49.99,
+      "features": ["Cardio Access", "Full Weightlifting", "Group Classes"]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 79.99,
+      "features": ["Cardio Access", "Full Weightlifting", "Unlimited Classes", "Personal Training"]
+    }
+  ]

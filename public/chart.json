@@ -1,0 +1,87 @@
+[
+    {
+      "id": "101",
+      "name": "John Doe",
+      "physics": 25,
+      "math": 75,
+      "english": 90
+    },
+    {
+      "id": "102",
+      "name": "Jane Smith",
+      "physics": 78,
+      "math": 82,
+      "english": 88
+    },
+    {
+      "id": "103",
+      "name": "Alice Johnson",
+      "physics": 53,
+      "math": 88,
+      "english": 79
+    },
+    {
+      "id": "104",
+      "name": "Bob Brown",
+      "physics": 68,
+      "math": 9,
+      "english": 84
+    },
+    {
+      "id": "105",
+      "name": "Emily Davis",
+      "physics": 80,
+      "math": 85,
+      "english": 92
+    },
+    {
+      "id": "106",
+      "name": "Michael Wilson",
+      "physics": 72,
+      "math": 90,
+      "english": 75
+    },
+    {
+      "id": "107",
+      "name": "Sophia Martinez",
+      "physics": 45,
+      "math": 82,
+      "english": 88
+    },
+    {
+      "id": "108",
+      "name": "David Anderson",
+      "physics": 88,
+      "math": 78,
+      "english": 83
+    },
+    {
+      "id": "109",
+      "name": "Olivia Garcia",
+      "physics": 90,
+      "math": 85,
+      "english": 87
+    },
+    {
+      "id": "110",
+      "name": "James Rodriguez",
+      "physics": 76,
+      "math": 92,
+      "english": 30
+    },
+    {
+      "id": "111",
+      "name": "Isabella Lee",
+      "physics": 82,
+      "math": 16,
+      "english": 75
+    },
+    {
+      "id": "112",
+      "name": "William Nguyen",
+      "physics": 94,
+      "math": 80,
+      "english": 88
+    }
+  ]
+  
