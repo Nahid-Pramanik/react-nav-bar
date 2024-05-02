@@ -8,7 +8,7 @@ const PriceList = () => {
         fetch('price.json')
         .then(res => res.json())
         .then(data => setPrices(data))
-    },[])
+    },[]);
     return (
         <div>
             <h2 className="text-4xl bg-blue-500 mt-6 text-center font-bold p-4 ">Awesome Prices</h2>

@@ -14,7 +14,7 @@ const DashBoard = () => {
     return (
         <div>
             <LineChart 
-            width={300}
+            width={350}
             height={200}
             data={students}
             >

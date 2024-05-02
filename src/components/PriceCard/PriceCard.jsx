@@ -8,8 +8,8 @@ const PriceCard = ({ priceObj }) => {
     return (
         <div className=' bg-indigo-400 rounded-lg mt-4 p-5 relative'>
             <h4 className='text-center py-2'>
-                <span className='text-2xl font-extrabold'>{price}</span>
-                <span className='text-xl font-bold text-white'>/mon</span>
+                <span className='text-3xl font-extrabold'>${price}</span>
+                <span className='text-xl font-bold text-white'>/month</span>
             </h4>
             <h2 className='text-3xl font-bold py-2'>{name}</h2>
             <h2 className='text-xl font-bold underline text-white'>Features:</h2>
